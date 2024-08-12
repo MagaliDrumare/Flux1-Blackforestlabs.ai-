@@ -1,5 +1,5 @@
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/pP50OCzAHpE?feature=shared/0.jpg)](https://youtu.be/pP50OCzAHpE?feature=shared)
+[![IMAGE ALT TEXT HERE](https://youtu.be/pP50OCzAHpE/0.jpg)](https://youtu.be/pP50OCzAHpE)
 
 
 # Flux1-by-https-blackforestlabs.ai-
