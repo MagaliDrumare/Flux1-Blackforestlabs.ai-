@@ -1,6 +1,6 @@
 
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pP50OCzAHpE/0.jpg)](https://youtu.be/pP50OCzAHpE)
 
 # Flux1-by-https-blackforestlabs.ai-
 FLUX.1, a innovative AI image generator developed by Black Forest Labs, is set to make waves in the field of artificial intelligence. Created by a team of seasoned experts with extensive experience in AI image and video generation, including notable contributions to the renowned Stable Diffusion project, FLUX.1 offers a trio of distinct models tailored to cater to a wide range of user needs. As an open-source tool, it openly invites community-driven improvements and fine-tuning, fostering a collaborative environment that encourages continuous enhancement and innovation.
