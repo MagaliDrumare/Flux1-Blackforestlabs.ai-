@@ -1,5 +1,5 @@
 
-[(https://youtu.be/pP50OCzAHpE/0.jpg)](https://youtu.be/pP50OCzAHpE)
+
 
 
 # Flux1-by-https-blackforestlabs.ai-
