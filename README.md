@@ -1,5 +1,5 @@
 
-FLUX - A new Midjourney killer is born!!!
+# FLUX - A new Midjourney killer is born!!!
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pP50OCzAHpE/0.jpg)](https://youtu.be/pP50OCzAHpE)
 
 # Flux1-by-https-blackforestlabs.ai-
